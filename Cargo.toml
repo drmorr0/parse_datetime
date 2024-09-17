@@ -1,10 +1,10 @@
 [package]
-name = "parse_datetime"
+name = "parse_datetime_fork"
 description = "parsing human-readable time strings and converting them to a DateTime"
-version = "0.6.0"
+version = "0.6.0-custom"
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/uutils/parse_datetime"
+repository = "https://github.com/drmorr0/parse_datetime"
 readme = "README.md"
 
 [dependencies]

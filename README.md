@@ -1,3 +1,6 @@
+This is a fork of [parse_datetime](https://github.com/uutils/parse_datetime) and only exists if/until
+https://github.com/uutils/parse_datetime/pull/80 is merged.
+
 # parse_datetime
 
 [![Crates.io](https://img.shields.io/crates/v/parse_datetime.svg)](https://crates.io/crates/parse_datetime)
